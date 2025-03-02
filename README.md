@@ -5,7 +5,7 @@
 
 
 [![Blog](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/thiagoflix)
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://medium.com/@felixthiago.tc)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://medium.com/@felixthiago.tc](https://www.linkedin.com/in/thiago-f%C3%A9lix-a231b3245/))
 [![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@felixthiago.tc)
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=FtcThiago&show_icons=true&theme=cobalt)
