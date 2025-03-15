@@ -25,6 +25,7 @@ Olá, Mestres! Bem-vindos ao meu GitHub!
 Sou um universitário em Ciência de Dados e Inteligência Artificial, apaixonado por tecnologia e sempre em busca de aprendizado contínuo. 🚀
 
 💡 O que estou estudando atualmente?
+
 📌 Python para Análise de Dados – Manipulação e visualização com Pandas, NumPy, Matplotlib e Plotly.
 📌 Bancos de Dados – Extração e análise com SQL (relacional) e introdução ao NoSQL.
 📌 Machine Learning – Primeiros passos com Scikit-Learn.
