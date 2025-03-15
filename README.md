@@ -21,24 +21,21 @@
 
 </div><br/>
 
-Olá, Mestres!
+Olá, Mestres! Bem-vindos ao meu GitHub!
+Sou um universitário em Ciência de Dados e Inteligência Artificial, apaixonado por tecnologia e sempre em busca de aprendizado contínuo. 🚀
 
-Sou um universitário em Ciência de Dados e Inteligência Artificial, apaixonado por tecnologia e comprometido em aprender e crescer constantemente na área de Dados.
+💡 O que estou estudando atualmente?
+📌 Python para Análise de Dados – Manipulação e visualização com Pandas, NumPy, Matplotlib e Plotly.
+📌 Bancos de Dados – Extração e análise com SQL (relacional) e introdução ao NoSQL.
+📌 Machine Learning – Primeiros passos com Scikit-Learn.
+📌 Ferramentas de BI – Visualização de dados com Excel, Power BI e SAS Viya.
 
-Nos últimos meses, tenho me dedicado ao estudo autodidata, combinando o curso superior com plataformas de aprendizado como a Alura e a prática na Kaggle, onde exploro desafios reais para aprimorar minhas habilidades.
+💻 Experiência adicional:
+🎓 Formação técnica em Informática (ETB), com projetos práticos em Java, PHP e HTML.
+🎯 Prática constante na Kaggle e cursos na Alura para reforçar o aprendizado.
 
-Minha jornada de aprendizado inclui:
+🚀 Estou em busca de oportunidades para aplicar meus conhecimentos, colaborar em projetos e crescer junto com a comunidade!
 
-Linguagem Python: Desenvolvimento de soluções para análise de dados, manipulação e visualização com bibliotecas como Pandas, NumPy, Matplotlib e Plotly.
-
-Bancos de Dados: Experiência crescente na extração, análise e apresentação de dados utilizando SQL em bancos relacionais, além de introdução ao mundo NoSQL, com prática intensiva durante a faculdade.
-
-Aprendizado de Máquina: Dando os primeiros passos em Machine Learning, explorando bibliotecas como Scikit-Learn.
-
-Ferramentas de Análise: Excel, Power BI e SAS Viya para visualização e apresentação de insights.
-
-Além disso, tenho uma sólida base em tecnologia adquirida durante meu curso de Informática na ETB, onde desenvolvi projetos práticos e aprendi linguagens como Java, PHP e HTML.
-
-Estou em busca de oportunidades para aplicar meus conhecimentos na prática, colaborar em projetos e aprender com profissionais da área.
+📫 Vamos conversar? Me encontre aqui no GitHub ou no [seu LinkedIn (se tiver)].
 
 
