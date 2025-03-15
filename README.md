@@ -21,6 +21,24 @@
 
 </div><br/>
 
-Um autodidata aspirante a especialista em Dados e Inteligência Artificial!
+Olá, Mestres!
 
-Apaixonado por Tecnologias!
+Sou um universitário em Ciência de Dados e Inteligência Artificial, apaixonado por tecnologia e comprometido em aprender e crescer constantemente na área de Dados.
+
+Nos últimos meses, tenho me dedicado ao estudo autodidata, combinando o curso superior com plataformas de aprendizado como a Alura e a prática na Kaggle, onde exploro desafios reais para aprimorar minhas habilidades.
+
+Minha jornada de aprendizado inclui:
+
+Linguagem Python: Desenvolvimento de soluções para análise de dados, manipulação e visualização com bibliotecas como Pandas, NumPy, Matplotlib e Plotly.
+
+Bancos de Dados: Experiência crescente na extração, análise e apresentação de dados utilizando SQL em bancos relacionais, além de introdução ao mundo NoSQL, com prática intensiva durante a faculdade.
+
+Aprendizado de Máquina: Dando os primeiros passos em Machine Learning, explorando bibliotecas como Scikit-Learn.
+
+Ferramentas de Análise: Excel, Power BI e SAS Viya para visualização e apresentação de insights.
+
+Além disso, tenho uma sólida base em tecnologia adquirida durante meu curso de Informática na ETB, onde desenvolvi projetos práticos e aprendi linguagens como Java, PHP e HTML.
+
+Estou em busca de oportunidades para aplicar meus conhecimentos na prática, colaborar em projetos e aprender com profissionais da área.
+
+Se você procura alguém apaixonado por dados, motivado e pronto para crescer, ficarei honrado em contribuir com sua equipe.
