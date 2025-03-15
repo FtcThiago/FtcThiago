@@ -41,4 +41,4 @@ Além disso, tenho uma sólida base em tecnologia adquirida durante meu curso de
 
 Estou em busca de oportunidades para aplicar meus conhecimentos na prática, colaborar em projetos e aprender com profissionais da área.
 
-Se você procura alguém apaixonado por dados, motivado e pronto para crescer, ficarei honrado em contribuir com sua equipe.
+
