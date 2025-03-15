@@ -42,6 +42,6 @@ Sou um universitário em Ciência de Dados e Inteligência Artificial, apaixonad
 
 🚀 Estou em busca de oportunidades para aplicar meus conhecimentos, colaborar em projetos e crescer junto com a comunidade!
 
-📫 Vamos conversar? Me encontre aqui no GitHub ou no [seu LinkedIn (se tiver)].
+📫 Vamos conversar? Me encontre aqui no GitHub ou no [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-f%C3%A9lix-a231b3245/).
 
 
